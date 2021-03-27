@@ -9,7 +9,8 @@
 /coverage
 
 # production
-/build
+# allow in git so extension can be loaded right after git clone
+#/build
 
 # misc
 .DS_Store
